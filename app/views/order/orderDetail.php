@@ -323,7 +323,7 @@ $total = $orderDetailsBuyUser[0]['total'];
           </div>
 
         </div>
-        <div class="col-md">
+        <!-- <div class="col-md">
           <div class="container rounded border border-secondary mb-1" style="height:150px;">
             <div id="chat-box">
 
@@ -336,7 +336,7 @@ $total = $orderDetailsBuyUser[0]['total'];
                 <button type="" class="btn btn-outline-secondary rounded-circle"><i class="bi bi-send"></i></button>
               </span>
             </form>
-        </div>
+        </div> -->
        </div> 
        </div>
     </div>
